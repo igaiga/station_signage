@@ -1,6 +1,6 @@
 # Station Signage
 
-Station Signage is a Rails debugging tool with macOS notification tools. You can see controller and action names when you access on notifications.
+Station Signage is a Rails debugging tool with macOS notification tools. You can see controller and action names on notifications when you access.
 
 ![station signage](station_signage.gif)
 
